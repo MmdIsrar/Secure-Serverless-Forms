@@ -6,21 +6,21 @@ Implementing and Securing serverless contact form in a static website hosting fr
 
 
 <b>Checkout the Architecture:</b>
-<img src="./assets/images/aws_architecture.png" alt="AWS_Architecture_"/>
+<img src="./assets/images/aws_architecture.jpeg" alt="AWS_Architecture_"/>
 
 Want to know how the process is,
 
 1. User fill out the form and submit it, lambda gets activated while user starts filling out.
 
-<img src="./assets/images/form.png" alt="Form"/>
+<img src="./assets/images/form.jpeg" alt="Form"/>
 
 2. User inputs will be recorded at the backend in dynamoDB and user information will be recorded in S3.
 
-<img src="./assets/images/user_data.png" alt="UserData_DB"/>
+<img src="./assets/images/user_data.jpeg" alt="UserData_DB"/>
 
 3. Once user's data is processed, thank you page will be displayed in the UI.
 
-<img src="./assets/images/thanksyou_message.png" alt="Thank-You"/>
+<img src="./assets/images/thankyou_message.jpeg" alt="Thank-You"/>
 
 Seems like application is based on a server, but how come it's a serverless application?
 
