@@ -4,8 +4,9 @@ Implementing and Securing serverless contact form in a static website hosting fr
 <b> ** Feature Highlights ** </b>
 
 
-
+<hr>
 <b>Checkout the Architecture:</b>
+
 <img src="./assets/images/aws_architecture.jpeg" alt="AWS_Architecture_"/>
 
 Want to know how the process is,
